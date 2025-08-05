@@ -1,1 +1,36 @@
+img{
+    max-width: 25%;
+    float: left;
+}
+
+p{
+    text-indent: 2rem;
+}
+
+main{
+    background-color: #cf98a7;
+}
+
+article{
+    padding: 2rem;
+    margin: 1rem 25rem;
+    background-color: #111;
+    color: #cf98a7;
+    border-radius: 20rem 10rem;
+}
+
+article a{
+    color: antiquewhite;
+}
+
+section{
+    padding: 2rem;
+    margin: 2rem;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
 

@@ -74,6 +74,10 @@ nav > a{
     margin-right: 1rem;
 }
 
+.mainNav a:hover{
+    color: chocolate;
+}
+
 body{
 
 }
