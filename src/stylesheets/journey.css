@@ -1,1 +1,29 @@
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
 
+body{
+    background-color: darkorchid;
+    
+}
+
+main{
+    text-shadow: 1rem 0.3rem 0.5rem whitesmoke;
+}
+
+p{
+    text-indent: 4rem;
+}
+
+article, section{
+    padding: 3rem;
+    margin: 0rem 15rem;
+}
+
+h1{
+    text-shadow: 2rem 0rem purple;
+    text-align: center;
+    font-size: xx-large;
+}

@@ -5,6 +5,11 @@
     padding: 0;
 }
 
+nav, footer{
+    background-color: white;
+    padding: 1rem;
+}
+
 nav{
     text-align: center;
 }
