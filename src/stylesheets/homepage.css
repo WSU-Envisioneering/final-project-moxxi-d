@@ -24,6 +24,11 @@ header p{
     margin-bottom: 2rem;
 }
 
+.lg-btn:hover{
+    background-color: mediumorchid;
+    color: blueviolet;
+}
+
 main{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -48,4 +53,8 @@ figure:nth-child(3){
 
 img{
     width: 100%;
+}
+
+.mainNav a:hover{
+    color: chocolate;
 }
